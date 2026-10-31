@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="210" viewBox="0 0 800 210" role="img" aria-labelledby="title">
+  <title id="title">Shahd's GitHub activity graph</title>
+  <rect width="800" height="210" rx="10" fill="#070A12" stroke="#25304A"/>
+  <text x="30" y="38" fill="#00F5D4" font-family="Arial,sans-serif" font-size="19" font-weight="700">GitHub activity</text>
+  <text x="30" y="62" fill="#CBD5E1" font-family="Arial,sans-serif" font-size="13">@shahdAboelmakarm22</text>
+  <g stroke="#25304A" stroke-width="1">
+    <path d="M30 90h740M30 120h740M30 150h740"/>
+  </g>
+  <polyline points="30,160 95,146 160,151 225,122 290,135 355,102 420,116 485,86 550,98 615,72 680,82 770,55" fill="none" stroke="#00F5D4" stroke-width="3"/>
+  <polyline points="30,160 95,146 160,151 225,122 290,135 355,102 420,116 485,86 550,98 615,72 680,82 770,55 770,175 30,175" fill="#00F5D4" opacity=".12"/>
+  <g fill="#FF4ECD">
+    <circle cx="225" cy="122" r="4"/><circle cx="355" cy="102" r="4"/><circle cx="485" cy="86" r="4"/><circle cx="615" cy="72" r="4"/>
+  </g>
+  <text x="30" y="195" fill="#94A3B8" font-family="Arial,sans-serif" font-size="11">Recent contributions and project activity</text>
+</svg>
