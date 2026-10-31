@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190" role="img" aria-labelledby="title desc">
+  <title id="title">Shahd Aboelmakarm — Computer Engineer</title>
+  <desc id="desc">Cyberpunk profile header with a GitHub icon.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0" stop-color="#070A12"/>
+      <stop offset=".52" stop-color="#101B36"/>
+      <stop offset="1" stop-color="#00F5D4"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="900" height="190" rx="14" fill="url(#bg)"/>
+  <path d="M0 155 C180 105 265 185 430 140 S700 100 900 145 V190 H0Z" fill="#070A12" opacity=".72"/>
+  <g transform="translate(52 54)" filter="url(#glow)" fill="none" stroke="#00F5D4" stroke-width="4">
+    <circle cx="40" cy="40" r="34"/>
+    <path d="M19 48c7 12 35 12 42 0M26 33h1M53 33h1M28 66l-8 12M52 66l8 12"/>
+  </g>
+  <text x="150" y="82" fill="#F8FAFC" font-family="Arial,sans-serif" font-size="38" font-weight="700" letter-spacing="3">SHAHD ABOELMAKARM</text>
+  <text x="153" y="119" fill="#FF4ECD" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">COMPUTER ENGINEER // DATA &amp; SOFTWARE BUILDER</text>
+  <text x="153" y="151" fill="#CBD5E1" font-family="Arial,sans-serif" font-size="14">Building useful systems from data, clean code, and thoughtful engineering.</text>
+</svg>
