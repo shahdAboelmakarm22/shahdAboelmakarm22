@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://shahd-aboelmakarm22-github-io.vercel.app">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070A12,50:101B36,100:00F5D4&height=190&section=header&text=SHAHD%20ABOELMAKARM&fontSize=38&fontColor=F8FAFC&animation=twinkling&fontAlignY=35&desc=COMPUTER%20ENGINEER%20%2F%2F%20DATA%20%26%20SOFTWARE%20BUILDER&descAlignY=58&descSize=15&descColor=FF4ECD" alt="Cyberpunk profile header">
+  <img src="./assets/cyber-header.svg" alt="Cyberpunk profile header">
 </a>
 
 <a href="https://shahd-aboelmakarm22-github-io.vercel.app">
@@ -91,16 +91,16 @@ location: Egypt
 <div align="center">
 
 <a href="https://github.com/shahdAboelmakarm22">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shahdAboelmakarm22&show_icons=true&hide_border=true&bg_color=070A12&title_color=00F5D4&icon_color=FF4ECD&text_color=CBD5E1&ring_color=7C3AED" alt="Shahd's GitHub statistics">
+  <img height="165" src="./assets/github-stats.svg" alt="Shahd's GitHub statistics">
 </a>
 <a href="https://github.com/shahdAboelmakarm22?tab=repositories">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahdAboelmakarm22&layout=compact&hide_border=true&bg_color=070A12&title_color=00F5D4&text_color=CBD5E1" alt="Most used languages">
+  <img height="165" src="./assets/top-languages.svg" alt="Most used languages">
 </a>
 
 <br>
 
 <a href="https://github.com/shahdAboelmakarm22">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahdAboelmakarm22&bg_color=070A12&color=CBD5E1&line=00F5D4&point=FF4ECD&area=true&hide_border=true" alt="Shahd's GitHub activity graph">
+  <img src="./assets/activity-graph.svg" alt="Shahd's GitHub activity graph">
 </a>
 
 </div>
